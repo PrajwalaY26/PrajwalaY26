@@ -2,15 +2,11 @@
 
 ## 👋 Welcome to my GitHub profile!
 
----
-
 ### 🔍 Technical Interests
 
 - Image Processing
 - Machine Learning
 - Full Stack Development
-
----
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
@@ -24,8 +20,6 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
-
----
 
 ### 🔭 I’m currently working on ...
 - Building innovative projects that leverage my skills in Python, Java, and web development to solve real-world problems.
@@ -50,7 +44,5 @@
 
 ### ⚡ Fun fact: ...
 - I founded a tech community called Prachurya Tech Community and love mentoring aspiring tech enthusiasts.
-
----
 
 Thank you for stopping by my GitHub profile! My passion lies in utilizing technology to address and solve real-world challenges. I am always enthusiastic about collaborating on innovative and impactful projects. Let’s connect and create something extraordinary together!
