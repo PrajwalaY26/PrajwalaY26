@@ -4,7 +4,7 @@
 
 ### 🔍 Technical Interests
 
-- Image Processing
+- Data Analytics
 - Machine Learning
 - Full Stack Development
 
