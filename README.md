@@ -22,7 +22,7 @@
 - Building innovative projects that leverage my skills in Python, Java, and web development to solve real-world problems.
 
 ### 🌱 I’m currently learning ...
-- Deepening my knowledge in Machine Learning and Image Processing to build intelligent systems.
+- Deepening my knowledge in Machine Learning and Data Analytics to build intelligent systems.
 
 ### 👯 I’m looking to collaborate on ...
 - Exciting projects related to Full Stack Development, Machine Learning, and Open Source contributions.
