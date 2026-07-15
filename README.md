@@ -11,49 +11,30 @@
 <br>
 
 ```python
-class Engineer:
+class Prajwala:
     def __init__(self):
-        self.name = "Prajwala Yadlapalli"
         self.role = "Full-Stack Software Engineer · AI & Backend Systems"
         self.based_in = "Tokyo, Japan (Mercari)"
-
-        self.currently_shipping = [
-            "Production React + TypeScript UI for a live logistics workflow",
-            "Refactoring shared components to kill duplication across modules",
-        ]
-
-        self.impact = {
-            "Mercari": "Independently delivered 60% of the LCC PUDO shipping workflow end-to-end",
-            "PaySafe": "Fraud detection pipeline, sub-300ms response under concurrent load",
-            "Providence": "LangChain NLP agents on 3,000+ clinical notes, +35% extraction accuracy",
-        }
-
-        self.research = "IEEE, 2025 — ANN-based credit card fraud detection"
-        self.certifications = ["AWS Certified AI Practitioner", "OCI Generative AI Professional"]
+        self.focus = ["React", "TypeScript", "Distributed Systems", "AI/ML Pipelines"]
+        self.currently_building = "Deepening React + TypeScript from first principles"
 
     def philosophy(self) -> str:
-        return "Optimize for correctness first, then speed, then elegance."
+        return "Ship fast, reason about trade-offs, never stop learning."
 ```
 
 <br>
 
 ### Stack
 
-**Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frontend & Backend**
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-
-**Data & Cloud**
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
@@ -81,7 +62,7 @@ class Engineer:
 
 | Project | What it does | Stack |
 |---|---|---|
-| **PaySafe** | Real-time fraud detection using telecom network signals — fault-tolerant, idempotent retries, sub-300ms response under concurrent load | Python, REST APIs, Async Processing |
+| **PaySafe** | Real-time fraud detection system using telecom network signals, built for fault tolerance under concurrent load with idempotent retry handling | Python, REST APIs, Async Processing |
 | [**Way Beyond Borders**](https://github.com/naiduyaswanthreddy/WayBeyondBorders) | Full-stack cross-border freight simulator with weather-aware multi-modal routing and an AI customs-compliance chatbot — Runner-Up, IIT Bombay Logithon 2025 (150+ teams) | React, Python, MongoDB, Google Maps API |
 | [**VerifAI**](https://github.com/naiduyaswanthreddy/VerifAI) | Fake news & deepfake detection with a multilingual NLP + CV pipeline, shipped as web app, browser extension, and API | Flask, FastAPI, React, DistilBERT, Docker |
 | [**MediVision**](https://github.com/PrajwalaY26/MediVision) | AI healthcare assistant for medicine recognition, dosage tracking, and prescription analysis | Flask, TensorFlow, OpenCV, Firebase |
