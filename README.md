@@ -52,19 +52,6 @@ class Prajwala:
 
 <br>
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrajwalaY26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalaY26&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalaY26&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
 ### Featured Work
 
 | Project | What it does | Stack |
