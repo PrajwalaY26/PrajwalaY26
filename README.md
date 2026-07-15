@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=const+engineer+%3D+%7B+name%3A+%22Prajwala%22+%7D%3B;Full-Stack+SWE+%C2%B7+AI+%26+Backend+Systems;Building+at+Mercari%2C+Tokyo;Shipping+sub-300ms+systems+in+production" alt="Typing SVG" />
+[<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=const+engineer+%3D+%7B+name%3A+%22Prajwala%22+%7D%3B;Full-Stack+SWE+%C2%B7+AI+%26+Backend+Systems;Building+at+Mercari%2C+Tokyo;Shipping+sub-300ms+systems+in+production" alt="Typing SVG" />](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=200&color=6C63FF&center=true&vCenter=true&width=650&lines=const+engineer+%3D+%22Prajwala%22%3B;Full-Stack+SWE+%C2%B7+AI+%26+Backend+Systems;Building+at+Mercari%2C+Tokyo;Shipping+systems+in+production)
 
 [![LinkedIn](https://img.shields.io/badge/-Prajwala_Yadlapalli-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prajwala-yadlapalli/)
 [![GitHub](https://img.shields.io/badge/-PrajwalaY26-181717?style=flat&logo=github&logoColor=white)](https://github.com/PrajwalaY26)
