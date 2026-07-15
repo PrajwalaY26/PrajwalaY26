@@ -13,13 +13,21 @@
 ```python
 class Prajwala:
     def __init__(self):
-        self.role = "Full-Stack Software Engineer · AI & Backend Systems"
-        self.based_in = "Tokyo, Japan (Mercari)"
-        self.focus = ["React", "TypeScript", "Distributed Systems", "AI/ML Pipelines"]
-        self.currently_building = "Deepening React + TypeScript from first principles"
+        self.role = "Software Engineer"
+        self.location = "Tokyo, Japan 🇯🇵"
+        self.interests = [
+            "Full-Stack Engineering",
+            "Backend Systems",
+            "Artificial Intelligence",
+            "Developer Experience"
+        ]
+        self.current_focus = (
+            "Building reliable products while continuously "
+            "deepening my understanding of software engineering."
+        )
 
     def philosophy(self) -> str:
-        return "Ship fast, reason about trade-offs, never stop learning."
+        return "Build thoughtfully. Stay curious. Keep improving."
 ```
 
 <br>
@@ -40,7 +48,6 @@ class Prajwala:
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 <br>
